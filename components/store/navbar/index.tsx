@@ -41,10 +41,10 @@ const StoreNavBar = () => {
         <div className={`${styles.top} storeContainer`}>
           <Link href={"/"}>
             <Image
-              alt="Bitex Logo"
-              src={"/images/logo.png"}
-              width={125}
-              height={40}
+              alt="Tecno Logo"
+              src={"/images/products/App Logo/logo.png"}
+              width={122.99}
+              height={100}
               quality={100}
             />
           </Link>

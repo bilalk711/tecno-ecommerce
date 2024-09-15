@@ -17,9 +17,9 @@ const Footer = () => {
           <Link href={"/"}>
             <Image
               alt="TECNO Logo"
-              src={"/images/logo.png"}
-              width={125}
-              height={40}
+              src={"/images/products/App Logo/logo.png"}
+              width={122.99}
+              height={100}
             />
           </Link>
           <div className={styles.search}>
